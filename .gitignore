@@ -1,0 +1,10 @@
+# Ignore VSCode config
+.vscode/
+
+# Ignore node_modules from extensions
+node_modules/
+
+# Ignore Python cache, logs, DBs
+__pycache__/
+*.log
+*.db
